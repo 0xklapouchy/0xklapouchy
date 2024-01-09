@@ -15,7 +15,14 @@ For private audits, security consulting or smart contract development, please re
 
 | Protocol | Role | Category | LoC | Report |
 | - | - | - | - | :-: |
-| Undisclosed | Auditor | Borrower Optimization Protocol | 1082 | |
+| Undisclosed | Lead Auditor | ERC20, Staking | 166 | |
+| [BBF Limited](https://bubblefong.io/)  | Lead Auditor | ERC20 | 258 | |
+| Undisclosed | Lead Auditor | ERC20 | 237 | |
+| Undisclosed | Lead Auditor | Money Streaming | 200 | |
+| [Hedgey](https://hedgey.finance/) | Lead Auditor | Batch NFT Minter | 150 | [📄](https://github.com/hedgey-finance/NFT_OTC_Core/blob/main/audits/Hedgey_SC%20Audit%20Report_31012023_%5BSA-909%5D.pdf) |
+| [Astra Protocol](https://astraprotocol.com/) | Lead Auditor | ERC20 | 175 | [📄](https://wp.hacken.io/wp-content/uploads/2023/01/Astra_Protocol_SC-Audit-Report_24012023_SA-961.pdf) |
+| [Bitconey](https://bitconeytoken.com/) | Lead Auditor | ERC20 | 224 | [📄](https://wp.hacken.io/wp-content/uploads/2023/01/Bitconey_SC-Audit-Report_13012023_SA-933.pdf) |
+| [Cryptorg](https://cryptorg.net/en) | Lead Auditor | ERC20 | 166 | [📄](https://docsend.com/view/h9bva5agy39gi6ak)|
 | [Parallax](https://parallaxfinance.org) | Lead Auditor | ERC721, Vault, Yield Strategy | 1700 | [📄](https://wp.hacken.io/wp-content/uploads/2023/03/Parallax_SC-Audit-Report_03032023_SA-878.pdf) |
 | [Energy Web](https://www.energyweb.org/) | Auditor | ERC1155, EIP-2535, Energy Resource Tracking | 1300 | [📄](https://wp.hacken.io/wp-content/uploads/2023/03/EnergyWebAG_03022023_SCAudit_Report_SA-816-1.pdf) |
 | Undisclosed | Auditor | Borrower Optimization Protocol | 1082 | |
