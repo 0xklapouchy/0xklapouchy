@@ -15,6 +15,21 @@ For private audits, security consulting or smart contract development, please re
 
 | Protocol | Role | Category | LoC | Report |
 | - | - | - | - | :-: |
+| Undisclosed | Lead Auditor | Bridge, Staking, DAO, TVM, EVM, TON-Solidity, Solidity | 17835 | |
+| Undisclosed | Lead Auditor | Liquid Staking, TVM, TON-Solidity | 2520 | |
+| Undisclosed | Auditor | Stablecoin, DEX, Oracle | 755 | |
+| [Alacrity LSD Protocol](https://docs.alacritylsd.com/alacrity/) | Auditor | ERC20, Staking | 446 | [📄](https://wp.hacken.io/wp-content/uploads/2023/10/Alacrity_LSD_Protocol_SC-Audit-Report_21072023_SA-1547-2.pdf) |
+| [Skies Verse](https://skiesverse.com/) | Lead Auditor | ERC20, ERC721, ERC1155, Staking | 520 | [📄](https://wp.hacken.io/wp-content/uploads/2023/08/Skies_Verse_SC-Audit-Report_22062023_SA-1267_.pdf) |
+| [Kenshi](https://kenshi.io/) | Lead Auditor | ERC20 | 121 | [📄](https://wp.hacken.io/wp-content/uploads/2023/06/Kenshi_SC-Audit-Report_20062023_SA-1495.pdf) |
+| [Metatime](https://metatime.com/en) | Lead Auditor | ERC20, Vesting, Proxy, Factory | 778 | [📄](https://wp.hacken.io/wp-content/uploads/2023/06/Metatime_SC-Audit-Report_19062023_SA-1397-1.pdf) |
+| Undisclosed | Lead Auditor | ERC721, ERC1155, Token Sale | 2500 | |
+| [Bit5](https://bit5.com/) | Auditor | Marketplace, Lending Platform | 1017 | [📄](https://wp.hacken.io/wp-content/uploads/2023/07/Bit5_SCRA_SC-Audit-Report_11072023_SA-1301-.pdf) |
+| [AutoMiningToken](https://www.dsolutions.mn/) | Auditor | ERC20, Liquidity Pool | 302 | [📄](https://wp.hacken.io/wp-content/uploads/2023/09/AutoMiningToken_SC-Audit-Report_20092023_SA-1519.pdf) |
+| [Diverse Solutions](https://www.dsolutions.mn/) | Lead Auditor | ERC20, Staking | 230 | [📄](https://wp.hacken.io/wp-content/uploads/2023/06/Diverse_Solutions_SC-Audit-Report_15062023_SA-1275.pdf) |
+| [SingularityDAO](https://www.singularitydao.ai/) | Lead Auditor | Vesting | 178 |  |
+| [Gotbit Bridge](https://products.gotbit.io/bridge) | Lead Auditor | Bridge | 287 | [📄](https://wp.hacken.io/wp-content/uploads/2023/08/Gotbit_SC-Audit-Report_09062023_SA-1362.pdf) |
+| [VirtuSwap](https://virtuswap.io/) | Lead Auditor | ERC20, Vesting, Staking | 1025 | [📄](https://wp.hacken.io/wp-content/uploads/2023/06/VirtuSwap_SC-Audit-Report_05062023_SA-1269.pdf) |
+| Undisclosed | Lead Auditor | Stablecoin, DAO, Staking | 1542 | |
 | [Arbitrove Protocol](https://docs.arbitrove.finance) | Lead Auditor | Index Protocol | 770 | [📄](https://wp.hacken.io/wp-content/uploads/2023/06/NitroCartel_SC-Audit-Report_31052023_SA-1162.pdf) |
 | [Streamable Finance](https://www.streamablefinance.com/) | Lead Auditor | ERC777, Staking | 430 | [📄](https://wp.hacken.io/wp-content/uploads/2023/10/StreamPay_SC-Audit-Report_31052023_SA-1292.pdf) |
 | [Hypercycle](https://www.hypercycle.ai/) | Lead Auditor | ERC721, Marketplace, Staking | 495 | [📄](https://wp.hacken.io/wp-content/uploads/2023/11/Hypercycle_SC-Audit-Report_30052023_SA-1327.pdf) |
