@@ -15,6 +15,16 @@ For private audits, security consulting or smart contract development, please re
 
 | Protocol | Role | Category | LoC | Report |
 | - | - | - | - | :-: |
+| [Arbitrove Protocol](https://docs.arbitrove.finance) | Lead Auditor | Index Protocol | 770 | [📄](https://wp.hacken.io/wp-content/uploads/2023/06/NitroCartel_SC-Audit-Report_31052023_SA-1162.pdf) |
+| [Streamable Finance](https://www.streamablefinance.com/) | Lead Auditor | ERC777, Staking | 430 | [📄](https://wp.hacken.io/wp-content/uploads/2023/10/StreamPay_SC-Audit-Report_31052023_SA-1292.pdf) |
+| [Hypercycle](https://www.hypercycle.ai/) | Lead Auditor | ERC721, Marketplace, Staking | 495 | [📄](https://wp.hacken.io/wp-content/uploads/2023/11/Hypercycle_SC-Audit-Report_30052023_SA-1327.pdf) |
+| [Paribus](https://paribus.io/) | Lead Auditor | Lending Platform | 3000 | [📄](https://wp.hacken.io/wp-content/uploads/2022/06/Paribus_SC-Audit-Report_13032023_SA-908-3.pdf) |
+| [Crypto Real Estate](https://www.creproject.com/) | Lead Auditor | ERC20 | 200 | [📄](https://wp.hacken.io/wp-content/uploads/2023/05/CRE_SC-Audit-Report_23052023_SA-1322.pdf) |
+| [Catgirl](https://catgirl.io/) | Lead Auditor | Marketplace | 1370 | [📄](https://wp.hacken.io/wp-content/uploads/2022/06/Paribus_SC-Audit-Report_13032023_SA-908-3.pdf) |
+| [InQubeta](https://inqubeta.ai/) | Lead Auditor | ERC20 | 193 | [📄](https://wp.hacken.io/wp-content/uploads/2023/05/Inqubeta_SC-Audit-Report_19052023_SA-1307-1.pdf) |
+| [Angel Block](https://angelblock.io/) | Lead Auditor | Staking | 758 | [📄](https://wp.hacken.io/wp-content/uploads/2023/05/Angel_Block_SC-Audit-Report_18052023_SA-1147.pdf) |
+| [Cinch Protocol](https://www.cinchprotocol.io/) | Lead Auditor | Yield Farming | 393 | [📄](https://wp.hacken.io/wp-content/uploads/2023/05/Cinch_Protocol_SC-Audit-Report_12052023_SA-1135.pdf) |
+| [LitLab Games](https://litlabgames.com/) | Lead Auditor | ERC20, Vesting, Staking, Gaming| 825 | [📄](https://wp.hacken.io/wp-content/uploads/2023/05/LitLab_Games_SC-Audit-Report_05052023_SA-1078-1-1.pdf) |
 | [DinoWars](https://dino-wars.com/) | Lead Auditor | ERC20, Vesting| 236 | [📄](https://wp.hacken.io/wp-content/uploads/2023/04/DinoWars_SC-Audit-Report_28042023_SA-925.pdf) |
 | [Kresus Labs](https://www.kresus.com/) | Lead Auditor | Storage Vault| 1085 | [📄](https://wp.hacken.io/wp-content/uploads/2023/05/Kresus_Labs_SC-Audit-Report_21042023_SA-1105-1.pdf) |
 | Undisclosed | Lead Auditor | ERC721 | 350 | |
