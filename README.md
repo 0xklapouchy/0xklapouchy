@@ -10,6 +10,7 @@ For private audits, security consulting or smart contract development, please re
 
 * Twitter - [*@marcin_ugarenko*](https://twitter.com/marcin_ugarenko) 
 * Telegram - [*@klapouchy*](https://t.me/klapouchy)
+* Sherlock - [*eeyore*](https://audits.sherlock.xyz/watson/eeyore)
 
 ## Security portfolio
 
