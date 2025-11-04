@@ -14,7 +14,7 @@ For private audits, security consulting, or smart contract development, please r
 ## Highlights
 
 * Multiple top finishes in audit contests (6×1st, 2×2nd, 1×3rd).
-* Dozens of private engagements for [Sherlock](https://sherlock.xyz/collaborative-audits), [Blackthorn](https://www.blackthorn.xyz/), [Zenith](https://www.zenith.security/), [Three Sigma](https://threesigma.xyz/), [Pashov](https://www.pashov.com/), [Hacken](https://hacken.io/), and [Orion Security](https://www.zenith.security/).
+* Dozens of private engagements for [Sherlock](https://sherlock.xyz/collaborative-audits), [Blackthorn](https://www.blackthorn.xyz/), [Zenith](https://www.zenith.security/), [Three Sigma](https://threesigma.xyz/), [Pashov](https://www.pashov.com/), [Hacken](https://hacken.io/), and [Orion Security](https://orionsecurity.xyz/).
 * Lead judge for [Cantina](https://cantina.xyz/solutions/competitions) and [Sherlock](https://sherlock.xyz/audit-contests).
 
 ## Private Engagements
