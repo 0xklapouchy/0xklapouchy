@@ -17,28 +17,6 @@ For private audits, security consulting, or smart contract development, please r
 * Dozens of private engagements for [Sherlock](https://sherlock.xyz/collaborative-audits), [Blackthorn](https://www.blackthorn.xyz/), [Zenith](https://www.zenith.security/), [Three Sigma](https://threesigma.xyz/), [Pashov](https://www.pashov.com/), [Hacken](https://hacken.io/), and [Orion Security](https://orionsecurity.xyz/).
 * Lead judge for [Cantina](https://cantina.xyz/solutions/competitions) and [Sherlock](https://sherlock.xyz/audit-contests).
 
-### Private Engagements
-
-| Project | Category | Description | Provider |
-| - | :-: | - | :-: |
-| [Usual USD0X](https://usual.money/) | Synthetic USD | | Sherlock |
-| [Drake #2](https://drake.exchange/) | Perpetual exchange | | Sherlock |
-| Livo | Bonding curve launchpad | | Sherlock |
-| Delpho | Lending / Stablecoin / Vault | | Sherlock |
-| [Usual EUR0](https://usual.money/) | Stablecoin | | Sherlock |
-| [Berachain](https://www.berachain.com/) | TBA | | Zenith |
-| [Honeypop](https://honeypop.app/) | Rewards Distribution / VE | | Sherlock |
-| [Superform V2 Core](https://www.superform.xyz/) | ERC7579 modules | | Orion |
-| [Drake #1](https://drake.exchange/) | Perpetual exchange | | Sherlock |
-| [Usual USD0++](https://usual.money/) | Stablecoin | | Sherlock |
-| [40 Acres #3](https://www.40acres.finance/) | Lending / VeNFT | | Sherlock |
-| [Perennial V3](https://perennial.finance/) | Perpetual exchange | | Blackthorn |
-| Hyperwave | TBA | | Three Sigma |
-| [Usual ETH0](https://usual.money/) | Synthetic ETH | | Sherlock |
-| [Soneta](https://www.soneta.xyz/) | Stablecoin (Liquity Fork) | | Three Sigma |
-| [40 Acres #2](https://www.40acres.finance/) | Lending / VeNFT | | Sherlock |
-| [40 Acres #1](https://www.40acres.finance/) | Lending / VeNFT | | Sherlock |
-
 ### Public Audit Contests
 
 | Platform | Protocol | Description  | Place | Report |
@@ -61,6 +39,28 @@ For private audits, security consulting, or smart contract development, please r
 | Code4rena| Predy | Unlock seamless, gas-free trading with our fully on-chain, vault-free Intent-based DEX for Perpetuals and Gamma, with no virtual positions. | 🥈 2nd | [📄](https://code4rena.com/reports/2024-05-predy) |
 | Code4rena| Ethena Labs | Ethena is a synthetic dollar protocol built on Ethereum that provides a crypto-native solution for money not reliant on traditional banking system. | 6th | [📄](https://code4rena.com/reports/2023-10-ethena) |
 | Code4rena| Basin | A composable EVM-native decentralized exchange protocol. | 7th | [📄](https://code4rena.com/reports/2023-07-basin) |
+
+### Private Engagements
+
+| Project | Category | Description | Provider |
+| - | :-: | - | :-: |
+| [Usual USD0X](https://usual.money/) | Synthetic USD | | Sherlock |
+| [Drake #2](https://drake.exchange/) | Perpetual exchange | | Sherlock |
+| Livo | Bonding curve launchpad | | Sherlock |
+| Delpho | Lending / Stablecoin / Vault | | Sherlock |
+| [Usual EUR0](https://usual.money/) | Stablecoin | | Sherlock |
+| [Berachain](https://www.berachain.com/) | TBA | | Zenith |
+| [Honeypop](https://honeypop.app/) | Rewards Distribution / VE | | Sherlock |
+| [Superform V2 Core](https://www.superform.xyz/) | ERC7579 modules | | Orion |
+| [Drake #1](https://drake.exchange/) | Perpetual exchange | | Sherlock |
+| [Usual USD0++](https://usual.money/) | Stablecoin | | Sherlock |
+| [40 Acres #3](https://www.40acres.finance/) | Lending / VeNFT | | Sherlock |
+| [Perennial V3](https://perennial.finance/) | Perpetual exchange | | Blackthorn |
+| Hyperwave | TBA | | Three Sigma |
+| [Usual ETH0](https://usual.money/) | Synthetic ETH | | Sherlock |
+| [Soneta](https://www.soneta.xyz/) | Stablecoin (Liquity Fork) | | Three Sigma |
+| [40 Acres #2](https://www.40acres.finance/) | Lending / VeNFT | | Sherlock |
+| [40 Acres #1](https://www.40acres.finance/) | Lending / VeNFT | | Sherlock |
 
 ### My previous work at Hacken
 
