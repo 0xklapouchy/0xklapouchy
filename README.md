@@ -29,6 +29,13 @@ For private audits, security consulting, or smart contract development, please r
 | Platform | Protocol | Description  | Place | Report |
 | - | - | - | :-: | :-: |
 | Sherlock| Neutrl Protocol | Neutrl is a market-neutral synthetic dollar designed to unlock untapped yield opportunities in OTC and altcoin markets. | 🥇 1st | [📄](https://audits.sherlock.xyz/contests/1065/report) |
+| Sherlock| Native | Native is an on-chain platform to build token liquidity that is openly accessible and cost effective. | 7th | Private |
+| Sherlock| Aave v3.3 | Aave is a DeFi liquidity protocol for users to supply and borrow assets. | 8th (Pot split) | No issues |
+| Sherlock| MachFi | Mach Finance is an upcoming borrow / lending platform native to Sonic, built on top of Compound v2. | 🥇 1st | [📄](https://audits.sherlock.xyz/contests/727/report) |
+| Sherlock| Resolv | Infrastructure for tokenized ETH based delta-neutral strategy of Resolv | 🥇 1st | Private |
+| Sherlock| vVv Launchpad | vVv facilitates both seed & launchpad deals. | 🥇 1st | [📄](https://audits.sherlock.xyz/contests/647/report) |
+| Sherlock| Avantis v1.5 | Avantis is the world’s first fully onchain exchange focused on cross asset leverage (real world assets + crypto). | 🥇 1st | Private |
+| Sherlock| Perennial V2 | Perennial is a powerful DeFi primitive built from first-principles to scale to the needs of traders, liquidity providers, and developers. | 4th | [📄](https://audits.sherlock.xyz/contests/518/report) |
 | | | | |
 | Sherlock| Kwenta | KWENTA staking rewards contract. | 🥇 1st | [📄](https://audits.sherlock.xyz/contests/493/report) |
 | Sherlock| Velocimeter | Velocimeter V4 is a ve33 dex with veLP, permissionless gauges, and an emission schedule that grows with demand. | 🥉 3rd | [📄](https://audits.sherlock.xyz/contests/442/report) |
